@@ -1,0 +1,13 @@
+﻿门槛,分析角色,signature 数,≥1 个可评估外部队列,≥2 个,无可评估队列,可评估 signature×队列
+0.8,equal_signed,2,2,2,0,5
+0.8,equal_weight,33,24,23,9,85
+0.8,main,167,143,130,24,461
+0.8,sens_figure,9,8,7,1,24
+0.8,sens_hr,9,6,6,3,20
+0.8,sens_lasso,1,1,1,0,5
+1.0,equal_signed,2,1,1,1,2
+1.0,equal_weight,33,24,20,9,73
+1.0,main,167,141,121,26,402
+1.0,sens_figure,9,7,6,2,20
+1.0,sens_hr,9,6,5,3,18
+1.0,sens_lasso,1,1,1,0,5

@@ -1,0 +1,7 @@
+cohort,patients_with_bcr_data,bcr_events,median_followup_censored_months,grade_group_1,grade_group_2,grade_group_3,grade_group_4_5,grade_group_missing,pT3_or_higher,pT_known,psa_median,psa_known,gleason_sum_counts,expression_note
+GSE54460,100,49,73.8,11,53,22,14,0,18.0,99,7.2,97,,FPKM (TopHat2) -> TPM -> log2(TPM+1)
+GSE70769,92,45,79.4301369863014,20,36,19,15,2,42.0,89,7.9,90,,"series-matrix values (submitter-normalised, log2); re-quantile-normalised within cohort"
+GSE70768,111,19,33.94520547945205,17,64,21,9,0,77.0,111,7.8,110,,"series-matrix values (submitter-normalised, log2); re-quantile-normalised within cohort"
+MSKCC_GSE21032,131,27,50.365,41,53,21,15,1,46.0,131,,0,,"GEO GPL10264 gene-level exon array (series matrix, linear scale -> log2), re-quantile-normalised; probe->RefSeq->HGNC: 17607/43419 probes mapped; {'input': 17533, 'unmapped': 0, 'collisions': 0, 'output': 17533}"
+GSE116918,248,56,86.0,42,0,0,107,99,,0,17.9,248,"{6: 42, 7: 99, 8: 52, 9: 54, 10: 1}","Almac PCa DSA, series-matrix RMA values; re-quantile-normalised"
+TCGA-PRAD,420,52,31.619579500657025,37,121,83,179,0,264.0,415,0.1,407,,"GDC hub STAR TPM (as distributed, log2 scale), primary tumours (-01), one aliquot per patient; Ensembl->HGNC"

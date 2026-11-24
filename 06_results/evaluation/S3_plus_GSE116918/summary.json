@@ -1,0 +1,23 @@
+{
+ "tag": "S3_plus_GSE116918",
+ "filters": {
+  "src": "run_primary,run_116918"
+ },
+ "n_signatures": 143,
+ "n_papers": 142,
+ "n_pairs": 461,
+ "pooled_c_median": 0.5683548411602023,
+ "pooled_c_iqr": [
+  0.5372310066590891,
+  0.6116373834272372
+ ],
+ "share_beats_grade_papers": 0.007042253521126761,
+ "share_beats_random_papers": 0.6079136690647482,
+ "n_random_q_lt_0.05": 76,
+ "n_lr_q_lt_0.05": 65,
+ "n_lr_combined_q_lt_0.05": 43,
+ "n_signatures_k2plus": 130,
+ "n_signatures_with_random": 140,
+ "n_ci_excludes_0.5": 40,
+ "median_delta_c_corrected": 0.0018846558710621422
+}

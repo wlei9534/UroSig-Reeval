@@ -1,0 +1,24 @@
+{
+ "tag": "S5_GSE54460_only",
+ "filters": {
+  "src": "run_primary",
+  "cohorts": "GSE54460"
+ },
+ "n_signatures": 190,
+ "n_papers": 189,
+ "n_pairs": 190,
+ "pooled_c_median": 0.549175585768007,
+ "pooled_c_iqr": [
+  0.49407000289268155,
+  0.5923488573908013
+ ],
+ "share_beats_grade_papers": 0.06349206349206349,
+ "share_beats_random_papers": 0.3655913978494624,
+ "n_random_q_lt_0.05": 24,
+ "n_lr_q_lt_0.05": 55,
+ "n_lr_combined_q_lt_0.05": 55,
+ "n_signatures_k2plus": 0,
+ "n_signatures_with_random": 187,
+ "n_ci_excludes_0.5": 52,
+ "median_delta_c_corrected": 0.00054648415848225
+}

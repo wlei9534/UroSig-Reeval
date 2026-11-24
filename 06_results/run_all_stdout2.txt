@@ -1,0 +1,226 @@
+2026-11-11 19:44:49 run_all start: jobs=14 python=3.12.0 only=S2,S3,S4,S5,S6,S7,S8,S9,S10
+2026-11-11 19:44:49 [run_raw] started 14 shards: --cov 0.8 --nboot 1000 --nrand 1000 --seed 20261101 --mode raw --cohorts GSE54460,GSE70769,GSE70768,MSKCC_GSE21032 --roles main
+2026-11-11 20:12:13 [run_raw] done in 1644s; run_raw: 384 pairs (384 ok), 379 random sets, 14 shards 
+2026-11-11 20:12:15 [pool S2a_raw_log2] rc=0 {
+ "tag": "S2a_raw_log2",
+ "filters": {
+  "src": "run_raw"
+ },
+ "n_signatures": 142,
+ "n_papers": 141,
+ "n_pairs": 384,
+ "pooled_c_median": 0.585556719947881,
+ "pooled_c_iqr": [
+  0.5409722997125374,
+  0.6233091985112446
+ ],
+ "share_beats_grade_papers": 0.014184397163120567,
+ "share_beats_random_papers": 0.6557971014492754,
+ "n_random_q_lt_0.05": 76,
+ "n_lr_q_lt_0.05": 53,
+ "n_lr_combined_q_lt_0.05": 38,
+ "n_signatures_k2plus": 121,
+ "n_signatures_with_random": 139,
+ "n_ci_excludes_0.5": 39,
+ "median_delta_c_corrected": 2.13874512512628e-05
+} 
+2026-11-11 20:12:16 [run_tcga] started 14 shards: --cov 0.8 --nboot 1000 --nrand 1000 --seed 20261101 --mode tcga --cohorts GSE54460,GSE70769,GSE70768,MSKCC_GSE21032 --roles main
+2026-11-11 20:47:04 [run_tcga] done in 2088s; run_tcga: 374 pairs (374 ok), 369 random sets, 14 shards 
+2026-11-11 20:47:06 [pool S2b_tcga_sd] rc=0 {
+ "tag": "S2b_tcga_sd",
+ "filters": {
+  "src": "run_tcga"
+ },
+ "n_signatures": 138,
+ "n_papers": 137,
+ "n_pairs": 374,
+ "pooled_c_median": 0.5890570703412333,
+ "pooled_c_iqr": [
+  0.5412872616008402,
+  0.6257932733282827
+ ],
+ "share_beats_grade_papers": 0.021897810218978103,
+ "share_beats_random_papers": 0.6529850746268657,
+ "n_random_q_lt_0.05": 80,
+ "n_lr_q_lt_0.05": 51,
+ "n_lr_combined_q_lt_0.05": 39,
+ "n_signatures_k2plus": 118,
+ "n_signatures_with_random": 135,
+ "n_ci_excludes_0.5": 43,
+ "median_delta_c_corrected": 0.0006820049997247849
+} 
+2026-11-11 20:47:06 [run_116918] started 14 shards: --cov 0.8 --nboot 1000 --nrand 1000 --seed 20261101 --mode z --cohorts GSE116918 --roles main
+2026-11-11 20:58:11 [run_116918] done in 665s; run_116918: 77 pairs (77 ok), 77 random sets, 14 shards 
+2026-11-11 20:58:14 [pool S3_plus_GSE116918] rc=0 {
+ "tag": "S3_plus_GSE116918",
+ "filters": {
+  "src": "run_primary,run_116918"
+ },
+ "n_signatures": 143,
+ "n_papers": 142,
+ "n_pairs": 461,
+ "pooled_c_median": 0.5683548411602023,
+ "pooled_c_iqr": [
+  0.5372310066590891,
+  0.6116373834272372
+ ],
+ "share_beats_grade_papers": 0.007042253521126761,
+ "share_beats_random_papers": 0.6079136690647482,
+ "n_random_q_lt_0.05": 76,
+ "n_lr_q_lt_0.05": 65,
+ "n_lr_combined_q_lt_0.05": 43,
+ "n_signatures_k2plus": 130,
+ "n_signatures_with_random": 140,
+ "n_ci_excludes_0.5": 40,
+ "median_delta_c_corrected": 0.0018846558710621422
+} 
+2026-11-11 20:58:16 [pool S4_without_MSKCC] rc=0 {
+ "tag": "S4_without_MSKCC",
+ "filters": {
+  "src": "run_primary",
+  "cohorts": "GSE54460,GSE70769,GSE70768"
+ },
+ "n_signatures": 141,
+ "n_papers": 140,
+ "n_pairs": 316,
+ "pooled_c_median": 0.5696540995696986,
+ "pooled_c_iqr": [
+  0.5370358469582907,
+  0.6113257172371621
+ ],
+ "share_beats_grade_papers": 0.02857142857142857,
+ "share_beats_random_papers": 0.551094890510949,
+ "n_random_q_lt_0.05": 58,
+ "n_lr_q_lt_0.05": 45,
+ "n_lr_combined_q_lt_0.05": 41,
+ "n_signatures_k2plus": 101,
+ "n_signatures_with_random": 138,
+ "n_ci_excludes_0.5": 42,
+ "median_delta_c_corrected": 0.0004017506221179178
+} 
+2026-11-11 20:58:18 [pool S5_GSE54460_only] rc=0 {
+ "tag": "S5_GSE54460_only",
+ "filters": {
+  "src": "run_primary",
+  "cohorts": "GSE54460"
+ },
+ "n_signatures": 132,
+ "n_papers": 131,
+ "n_pairs": 132,
+ "pooled_c_median": 0.5490309516922187,
+ "pooled_c_iqr": [
+  0.4955886606884582,
+  0.5893115417992478
+ ],
+ "share_beats_grade_papers": 0.061068702290076333,
+ "share_beats_random_papers": 0.3203125,
+ "n_random_q_lt_0.05": 9,
+ "n_lr_q_lt_0.05": 31,
+ "n_lr_combined_q_lt_0.05": 31,
+ "n_signatures_k2plus": 0,
+ "n_signatures_with_random": 129,
+ "n_ci_excludes_0.5": 36,
+ "median_delta_c_corrected": 0.00044638160265000003
+} 
+2026-11-11 20:58:19 [pool S6_endpoint_BCR_RFS] rc=0 {
+ "tag": "S6_endpoint_BCR_RFS",
+ "filters": {
+  "src": "run_primary",
+  "endpoint": "BCR/RFS"
+ },
+ "n_signatures": 104,
+ "n_papers": 104,
+ "n_pairs": 271,
+ "pooled_c_median": 0.5821814801322747,
+ "pooled_c_iqr": [
+  0.5494889711805684,
+  0.6206238873311678
+ ],
+ "share_beats_grade_papers": 0.009615384615384616,
+ "share_beats_random_papers": 0.6732673267326733,
+ "n_random_q_lt_0.05": 63,
+ "n_lr_q_lt_0.05": 29,
+ "n_lr_combined_q_lt_0.05": 24,
+ "n_signatures_k2plus": 88,
+ "n_signatures_with_random": 101,
+ "n_ci_excludes_0.5": 31,
+ "median_delta_c_corrected": -0.00023416549844678674
+} 
+2026-11-11 20:58:19 [run_sens_roles] started 14 shards: --cov 0.8 --nboot 1000 --nrand 1000 --seed 20261101 --mode z --cohorts GSE54460,GSE70769,GSE70768,MSKCC_GSE21032 --roles sens_figure,sens_hr,sens_lasso
+2026-11-11 21:02:10 [run_sens_roles] done in 231s; run_sens_roles: 39 pairs (39 ok), 39 random sets, 14 shards 
+2026-11-11 21:02:12 [pool S7_plus_low_precision] rc=0 {
+ "tag": "S7_plus_low_precision",
+ "filters": {
+  "src": "run_primary,run_sens_roles"
+ },
+ "n_signatures": 156,
+ "n_papers": 155,
+ "n_pairs": 423,
+ "pooled_c_median": 0.5732407457008977,
+ "pooled_c_iqr": [
+  0.5342917339583724,
+  0.6154554808169515
+ ],
+ "share_beats_grade_papers": 0.012903225806451613,
+ "share_beats_random_papers": 0.5888157894736842,
+ "n_random_q_lt_0.05": 77,
+ "n_lr_q_lt_0.05": 60,
+ "n_lr_combined_q_lt_0.05": 46,
+ "n_signatures_k2plus": 132,
+ "n_signatures_with_random": 153,
+ "n_ci_excludes_0.5": 41,
+ "median_delta_c_corrected": 0.0006885119363877867
+} 
+2026-11-11 21:02:12 [run_equal] started 14 shards: --cov 0.8 --nboot 1000 --nrand 1000 --seed 20261101 --mode z --cohorts GSE54460,GSE70769,GSE70768,MSKCC_GSE21032 --roles equal_weight,equal_signed
+2026-11-11 21:09:45 [run_equal] done in 453s; run_equal: 72 pairs (72 ok), 72 random sets, 14 shards 
+2026-11-11 21:09:47 [pool S8_equal_weight] rc=0 {
+ "tag": "S8_equal_weight",
+ "filters": {
+  "src": "run_equal"
+ },
+ "n_signatures": 26,
+ "n_papers": 26,
+ "n_pairs": 72,
+ "pooled_c_median": 0.5954405491901711,
+ "pooled_c_iqr": [
+  0.5182570329258572,
+  0.6257573627566348
+ ],
+ "share_beats_grade_papers": 0.0,
+ "share_beats_random_papers": 0.5769230769230769,
+ "n_random_q_lt_0.05": 12,
+ "n_lr_q_lt_0.05": 18,
+ "n_lr_combined_q_lt_0.05": 14,
+ "n_signatures_k2plus": 21,
+ "n_signatures_with_random": 26,
+ "n_ci_excludes_0.5": 7,
+ "median_delta_c_corrected": 0.0032434764704400627
+} 
+2026-11-11 21:09:47 [run_full_formula] started 14 shards: --cov 0.8 --nboot 1000 --nrand 1000 --seed 20261101 --mode z --cohorts GSE54460,GSE70769,GSE70768,MSKCC_GSE21032 --roles main --full-formula --only 34002865,39832058
+2026-11-11 21:10:56 [run_full_formula] done in 70s; run_full_formula: 6 pairs (6 ok), 6 random sets, 14 shards 
+2026-11-11 21:10:57 [run_drop_repeats] started 14 shards: --cov 0.8 --nboot 1000 --nrand 1000 --seed 20261101 --mode z --cohorts GSE54460 --roles main --drop-repeats
+2026-11-11 21:23:25 [run_drop_repeats] done in 748s; run_drop_repeats: 132 pairs (132 ok), 129 random sets, 14 shards 
+2026-11-11 21:23:26 [pool S10_GSE54460_no_repeats] rc=0 {
+ "tag": "S10_GSE54460_no_repeats",
+ "filters": {
+  "src": "run_primary,run_drop_repeats"
+ },
+ "n_signatures": 142,
+ "n_papers": 141,
+ "n_pairs": 384,
+ "pooled_c_median": 0.5744084331059736,
+ "pooled_c_iqr": [
+  0.542065856958509,
+  0.6217659984241757
+ ],
+ "share_beats_grade_papers": 0.0070921985815602835,
+ "share_beats_random_papers": 0.6195652173913043,
+ "n_random_q_lt_0.05": 70,
+ "n_lr_q_lt_0.05": 47,
+ "n_lr_combined_q_lt_0.05": 35,
+ "n_signatures_k2plus": 121,
+ "n_signatures_with_random": 139,
+ "n_ci_excludes_0.5": 41,
+ "median_delta_c_corrected": 0.0015392227750599947
+} 
+2026-11-11 21:23:26 run_all finished

@@ -1,0 +1,25 @@
+{
+ "n_signatures": 142,
+ "n_pairs": 384,
+ "metapcna_n_genes": 168,
+ "E1_grade": {
+  "median_pooled_dC": -0.1430809891087097,
+  "n_ci_above_0": 0,
+  "n_ci_below_0": 73,
+  "n_ci_includes_0": 69
+ },
+ "E2_metapcna": {
+  "cohort_C": {
+   "GSE54460": 0.4672,
+   "GSE70768": 0.6085,
+   "GSE70769": 0.6632,
+   "MSKCC_GSE21032": 0.4965
+  },
+  "median_pooled_dC_sig_minus_metapcna": 0.021997450083674097,
+  "n_ci_above_0": 16,
+  "n_ci_below_0": 1,
+  "n_point_above_0": 89,
+  "median_abs_rho_sig_metapcna": 0.2692616261339964,
+  "spearman_absrho_vs_C_pairs": -0.0730406548072124
+ }
+}

@@ -1,0 +1,102 @@
+2026-11-11 23:29:30 run_all start: jobs=14 python=3.12.0 only=E3,E12
+2026-11-11 23:29:30 [run_met_116918] started 14 shards: --cov 0.8 --nboot 1000 --nrand 1000 --seed 20261101 --mode z --cohorts GSE116918 --roles main --endpoint met
+2026-11-11 23:38:52 [run_met_116918] done in 562s; run_met_116918: 77 pairs (77 ok), 77 random sets, 14 shards 
+2026-11-11 23:38:53 [pool E3_met_GSE116918] rc=0 {
+ "tag": "E3_met_GSE116918",
+ "filters": {
+  "src": "run_met_116918"
+ },
+ "n_signatures": 77,
+ "n_papers": 76,
+ "n_pairs": 77,
+ "pooled_c_median": 0.5707016604177826,
+ "pooled_c_iqr": [
+  0.5206213176218533,
+  0.614354579539368
+ ],
+ "share_beats_grade_papers": 0.3684210526315789,
+ "share_beats_random_papers": 0.27631578947368424,
+ "n_random_q_lt_0.05": 0,
+ "n_lr_q_lt_0.05": 0,
+ "n_lr_combined_q_lt_0.05": 0,
+ "n_signatures_k2plus": 0,
+ "n_signatures_with_random": 77,
+ "n_ci_excludes_0.5": 11,
+ "median_delta_c_corrected": 0.0345832356808187
+} 
+2026-11-11 23:41:05 [E1E2] rc=0 meta-PCNA: 168 genes (top 1% of 16775 candidate genes; r from 0.652 to 0.763)
+1/49 chunks
+2/49 chunks
+3/49 chunks
+4/49 chunks
+5/49 chunks
+6/49 chunks
+7/49 chunks
+8/49 chunks
+9/49 chunks
+10/49 chunks
+11/49 chunks
+12/49 chunks
+13/49 chunks
+14/49 chunks
+15/49 chunks
+16/49 chunks
+17/49 chunks
+18/49 chunks
+19/49 chunks
+20/49 chunks
+21/49 chunks
+22/49 chunks
+23/49 chunks
+24/49 chunks
+25/49 chunks
+26/49 chunks
+27/49 chunks
+28/49 chunks
+29/49 chunks
+30/49 chunks
+31/49 chunks
+32/49 chunks
+33/49 chunks
+34/49 chunks
+35/49 chunks
+36/49 chunks
+37/49 chunks
+38/49 chunks
+39/49 chunks
+40/49 chunks
+41/49 chunks
+42/49 chunks
+43/49 chunks
+44/49 chunks
+45/49 chunks
+46/49 chunks
+47/49 chunks
+48/49 chunks
+49/49 chunks
+{
+ "n_signatures": 142,
+ "n_pairs": 384,
+ "metapcna_n_genes": 168,
+ "E1_grade": {
+  "median_pooled_dC": -0.1430809891087097,
+  "n_ci_above_0": 0,
+  "n_ci_below_0": 73,
+  "n_ci_includes_0": 69
+ },
+ "E2_metapcna": {
+  "cohort_C": {
+   "GSE54460": 0.4672,
+   "GSE70768": 0.6085,
+   "GSE70769": 0.6632,
+   "MSKCC_GSE21032": 0.4965
+  },
+  "median_pooled_dC_sig_minus_metapcna": 0.021997450083674097,
+  "n_ci_above_0": 16,
+  "n_ci_below_0": 1,
+  "n_point_above_0": 89,
+  "median_abs_rho_sig_metapcna": 0.2692616261339964,
+  "spearman_absrho_vs_C_pairs": -0.0730406548072124
+ }
+} 
+2026-11-11 23:41:05 run_all finished

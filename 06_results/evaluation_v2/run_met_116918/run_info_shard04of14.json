@@ -1,0 +1,28 @@
+{
+ "args": {
+  "root": "D:\\article\\UroSig-Reeval",
+  "mode": "z",
+  "cov": "0.8",
+  "cohorts": "GSE116918",
+  "roles": "main",
+  "nboot": 1000,
+  "nrand": 1000,
+  "seed": 20261101,
+  "tag": "run_met_116918",
+  "limit": 0,
+  "full_formula": false,
+  "endpoint": "met",
+  "drop_repeats": false,
+  "only": "",
+  "shard": "4/14"
+ },
+ "n_pairs": 8,
+ "seconds": 774,
+ "versions": {
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "scipy": "1.16.1",
+  "lifelines": "0.30.0"
+ },
+ "python": "3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)]"
+}

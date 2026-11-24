@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+04_cohorts/
+01_search/
+03_extraction/fulltext*/
+*.tiff
+~$*

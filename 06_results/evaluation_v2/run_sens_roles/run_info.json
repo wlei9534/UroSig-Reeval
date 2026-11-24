@@ -1,0 +1,30 @@
+{
+ "args": {
+  "root": "D:\\article\\UroSig-Reeval",
+  "mode": "z",
+  "cov": "0.8",
+  "cohorts": "GSE54460,GSE70769,GSE70768,MSKCC_GSE21032",
+  "roles": "sens_figure,sens_hr,sens_lasso",
+  "nboot": 1000,
+  "nrand": 1000,
+  "seed": 20261101,
+  "tag": "run_sens_roles",
+  "limit": 0,
+  "full_formula": false,
+  "endpoint": "bcr",
+  "drop_repeats": false,
+  "only": ""
+ },
+ "n_pairs": 75,
+ "seconds": 564,
+ "versions": {
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "scipy": "1.16.1",
+  "lifelines": "0.30.0"
+ },
+ "python": "3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)]",
+ "n_shards": 14,
+ "seconds_max_shard": 572,
+ "seconds_sum": 7453
+}

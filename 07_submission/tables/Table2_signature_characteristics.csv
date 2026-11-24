@@ -1,0 +1,26 @@
+characteristic,level,n,percent
+Signatures,,211,
+Articles,,210,
+Year of publication,2018 or earlier,6,2.8
+Year of publication,2019-2020,21,10.0
+Year of publication,2021-2022,87,41.2
+Year of publication,2023-2024,51,24.2
+Year of publication,2025-2026,46,21.8
+Number of genes,2-5,96,45.5
+Number of genes,6-10,80,37.9
+Number of genes,11-20,25,11.8
+Number of genes,more than 20,10,4.7
+Number of genes,median (interquartile range),6 (4-9),
+Training data,TCGA-PRAD only,177,83.9
+Training data,other,34,16.1
+Final model,multivariable Cox,112,53.1
+Final model,LASSO-type,92,43.6
+Final model,univariable or other,7,3.3
+Endpoint of the original model,biochemical recurrence or recurrence-free survival,149,70.6
+Endpoint of the original model,other or unclear,62,29.4
+External validation reported by the authors,yes,101,47.9
+External validation reported by the authors,no,110,52.1
+Independent cohorts available for re-evaluation,4,50,23.7
+Independent cohorts available for re-evaluation,3,79,37.4
+Independent cohorts available for re-evaluation,2,50,23.7
+Independent cohorts available for re-evaluation,1,32,15.2

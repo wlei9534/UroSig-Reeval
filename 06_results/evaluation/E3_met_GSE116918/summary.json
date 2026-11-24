@@ -1,0 +1,23 @@
+{
+ "tag": "E3_met_GSE116918",
+ "filters": {
+  "src": "run_met_116918"
+ },
+ "n_signatures": 77,
+ "n_papers": 76,
+ "n_pairs": 77,
+ "pooled_c_median": 0.5707016604177826,
+ "pooled_c_iqr": [
+  0.5206213176218533,
+  0.614354579539368
+ ],
+ "share_beats_grade_papers": 0.3684210526315789,
+ "share_beats_random_papers": 0.27631578947368424,
+ "n_random_q_lt_0.05": 0,
+ "n_lr_q_lt_0.05": 0,
+ "n_lr_combined_q_lt_0.05": 0,
+ "n_signatures_k2plus": 0,
+ "n_signatures_with_random": 77,
+ "n_ci_excludes_0.5": 11,
+ "median_delta_c_corrected": 0.0345832356808187
+}

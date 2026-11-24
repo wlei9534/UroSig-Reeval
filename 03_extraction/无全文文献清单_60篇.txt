@@ -1,0 +1,253 @@
+﻿UroSig-Reeval 无开放获取全文文献清单（共 60 篇）
+生成日期：2026-10-31
+来源：PubMed 检索（2026-10-26）中 AI 预筛“可能纳入”的 292 篇里，PMC 开放获取库拿不到正文的部分。
+DOI 取自 PubMed esummary 记录（已修正早期从参考文献误取的问题）；标“无 DOI”的请用 PubMed 链接查找。
+找到全文后放进 D:\article\UroSig-Reeval\03_extraction\fulltext_manual\<PMID>\（PDF 及补充材料），告诉我即可继续提取。
+
+============================================================
+一、PMC 无全文（49 篇）
+============================================================
+
+1. PMID 42847863 | 2026 | Science progress
+   标题：Tryptophan metabolism-derived prognostic signature: A potential biomarker for risk stratification and exploratory immunotherapy relevance analysis in prostate cancer.
+   DOI：10.1177/00368504261494032    https://doi.org/10.1177/00368504261494032
+
+2. PMID 42419189 | 2026 | Computational biology and chemistry
+   标题：Identification and verification of immunogenic cell death-related signatures derived from bone metastasis of prostate cancer based on multi-omics and machine learning algorithms.
+   DOI：10.1016/j.compbiolchem.2026.109230    https://doi.org/10.1016/j.compbiolchem.2026.109230
+
+3. PMID 42361668 | 2026 | Ecotoxicology and environmental safety
+   标题：The role of acrylamide exposure in prostate cancer progression: An integrated analysis based on network toxicology and experimental validation.
+   DOI：10.1016/j.ecoenv.2026.120441    https://doi.org/10.1016/j.ecoenv.2026.120441
+
+4. PMID 42227542 | 2026 | Current gene therapy
+   标题：HOXC4 Is Associated with the Prognosis and Immune Cell Infiltration in the Progression of Prostate Cancer.
+   DOI：10.2174/0115665232480070260518114905    https://doi.org/10.2174/0115665232480070260518114905
+
+5. PMID 42190028 | 2026 | The Prostate
+   标题：Characterizing the Activity of Inflammasome-Related Genes and Their Association With Oncological Outcomes in Prostate Cancer.
+   DOI：10.1002/pros.70202    https://doi.org/10.1002/pros.70202
+
+6. PMID 41568495 | 2026 | Combinatorial chemistry & high throughput screening
+   标题：Identification of a Cuproptosis-Related Molecular Signature for Predicting Biochemical Recurrence in Prostate Cancer.
+   DOI：10.2174/0113862073412459251117113248    https://doi.org/10.2174/0113862073412459251117113248    没找到
+   
+7. PMID 41205043 | 2026 | Applied biochemistry and biotechnology
+   标题：Interplay of Molecular Subtypes Associated with Butyrate Metabolism Elucidates Clinical Characteristics and Tumor Microenvironment in Prostate Cancer.
+   DOI：10.1007/s12010-025-05476-x    https://doi.org/10.1007/s12010-025-05476-x
+
+8. PMID 39832058 | 2026 | Molecular biotechnology
+   标题：Exploring the Effects of Opioid-Related Drugs on the Clinical Outcome of Prostate Cancer Patients Via Integrated Bioinformatics Analysis.
+   DOI：10.1007/s12033-024-01353-w    https://doi.org/10.1007/s12033-024-01353-w
+
+9. PMID 39760809 | 2026 | Molecular biotechnology
+   标题：Identification and Validation of Alkaliptosis Resistance-Associated Genes in Prostate Cancer Via Transcriptome Sequencing and Prediction of Biochemical Recurrence.
+   DOI：10.1007/s12033-024-01322-3    https://doi.org/10.1007/s12033-024-01322-3
+
+10. PMID 41111380 | 2025 | Archivos espanoles de urologia
+   标题：Construction of Five Epithelial Immune-Related Gene Signatures and Verification of OPRK1 as a Prognostic Biomarker for Prostate Cancer.
+   DOI：10.56434/j.arch.esp.urol.20257808.141    https://doi.org/10.56434/j.arch.esp.urol.20257808.141   没找到
+
+11. PMID 40295064 | 2025 | Anticancer research
+   标题：Ubiquitin-proteasome Pathway-linked Gene Signatures as Prognostic Indicators in Prostate Cancer.
+   DOI：10.21873/anticanres.17562    https://doi.org/10.21873/anticanres.17562
+
+12. PMID 40210782 | 2025 | Cell biochemistry and biophysics
+   标题：Computational Identification and Validation of Metabolic Cell Death-Related Prognostic Biomarkers for Personalized Treatment Strategies in Prostate Cancer.
+   DOI：10.1007/s12013-025-01746-x    https://doi.org/10.1007/s12013-025-01746-x
+
+13. PMID 40081210 | 2025 | Computers in biology and medicine
+   标题：Machine learning prediction of overall survival in prostate adenocarcinoma using ensemble techniques.
+   DOI：10.1016/j.compbiomed.2025.110008    https://doi.org/10.1016/j.compbiomed.2025.110008
+
+14. PMID 39965532 | 2025 | Biochimica et biophysica acta. Molecular basis of disease
+   标题：Development and validation of a kinase-related gene signature as a novel diagnostic and prognostic model for prostate cancer.
+   DOI：10.1016/j.bbadis.2025.167722    https://doi.org/10.1016/j.bbadis.2025.167722
+
+15. PMID 39742702 | 2025 | Computational biology and chemistry
+   标题：Identification and dissection of prostate cancer grounded on fatty acid metabolism-correlative features for predicting prognosis and assisting immunotherapy.
+   DOI：10.1016/j.compbiolchem.2024.108323    https://doi.org/10.1016/j.compbiolchem.2024.108323
+
+16. PMID 39733640 | 2025 | International immunopharmacology
+   标题：Identification of neutrophil extracellular traps (NETs)-related molecular clusters in prostate cancer: Implications for predicting biochemical recurrence.
+   DOI：10.1016/j.intimp.2024.113908    https://doi.org/10.1016/j.intimp.2024.113908
+
+17. PMID 39029755 | 2024 | The Science of the total environment
+   标题：Environmental explanation of prostate cancer progression based on the comprehensive analysis of polychlorinated biphenyls.
+   DOI：10.1016/j.scitotenv.2024.174870    https://doi.org/10.1016/j.scitotenv.2024.174870
+
+18. PMID 38870985 | 2024 | Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme
+   标题：Construction and Validation of a Prognostic Model Based on Mitochondrial Genes in Prostate Cancer.
+   DOI：10.1055/a-2330-3696    https://doi.org/10.1055/a-2330-3696
+
+19. PMID 38429210 | 2024 | European urology oncology
+   标题：Development and Independent Validation of a Prognostic Gene Expression Signature Based on RB1, PTEN, and TP53 in Metastatic Hormone-sensitive Prostate Cancer Patients.
+   DOI：10.1016/j.euo.2023.12.012    https://doi.org/10.1016/j.euo.2023.12.012
+
+20. PMID 38395379 | 2024 | Cancer letters
+   标题：Identification of a 9-gene signature to enhance biochemical recurrence prediction in primary prostate cancer: A benchmarking study using ten machine learning methods and twelve patient cohorts.
+   DOI：10.1016/j.canlet.2024.216739    https://doi.org/10.1016/j.canlet.2024.216739
+
+21. PMID 38070051 | 2024 | Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico
+   标题：Single-cell analysis extracted CAFs-related genes to established online app to predict clinical outcome and radiotherapy prognosis of prostate cancer.
+   DOI：10.1007/s12094-023-03348-6    https://doi.org/10.1007/s12094-023-03348-6
+
+22. PMID 37610864 | 2024 | Cancer biotherapy & radiopharmaceuticals
+   标题：A Prognostic Model for Prostate Cancer Patients Based on Two DNA Damage Response Mutation-Related Immune Genes.
+   DOI：10.1089/cbr.2023.0033    https://doi.org/10.1089/cbr.2023.0033
+
+23. PMID 37565774 | 2024 | Environmental toxicology
+   标题：Coordinating single-cell and bulk RNA-seq in deciphering the intratumoral immune landscape and prognostic stratification of prostate cancer patients.
+   DOI：10.1002/tox.23928    https://doi.org/10.1002/tox.23928
+
+24. PMID 37474400 | 2024 | European urology oncology
+   标题：Transcriptomic Heterogeneity of Expansile Cribriform and Other Gleason Pattern 4 Prostate Cancer Subtypes.
+   DOI：10.1016/j.euo.2023.06.007    https://doi.org/10.1016/j.euo.2023.06.007
+
+25. PMID 37516327 | 2023 | Genomics
+   标题：A tumor-associated macrophages related model for predicting biochemical recurrence and tumor immune environment in prostate cancer.
+   DOI：10.1016/j.ygeno.2023.110691    https://doi.org/10.1016/j.ygeno.2023.110691
+
+26. PMID 37060201 | 2023 | Cancer
+   标题：A novel prostate cancer subtyping classifier based on luminal and basal phenotypes.
+   DOI：10.1002/cncr.34790    https://doi.org/10.1002/cncr.34790
+
+27. PMID 37011878 | 2023 | Life sciences
+   标题：Cuproptosis illustrates tumor micro-environment features and predicts prostate cancer therapeutic sensitivity and prognosis.
+   DOI：10.1016/j.lfs.2023.121659    https://doi.org/10.1016/j.lfs.2023.121659
+
+28. PMID 37010617 | 2023 | Functional & integrative genomics
+   标题：Integrated analysis of single-cell and bulk RNA sequencing identifies a signature based on macrophage marker genes involved in prostate cancer prognosis and treatment responsiveness.
+   DOI：10.1007/s10142-023-01037-9    https://doi.org/10.1007/s10142-023-01037-9
+
+29. PMID 36647875 | 2023 | European review for medical and pharmacological sciences
+   标题：Identification of a chromatin regulator signature for predicting prognosis of prostate cancer patient.
+   DOI：10.26355/eurrev_202301_30901    https://doi.org/10.26355/eurrev_202301_30901
+
+30. PMID 37846114 | 2022 | Zhonghua nan ke xue = National journal of andrology
+   标题：[Establishment of a prostate cancer prognostic risk model based on the TCGA database and inflammation-related genes].
+   DOI：无 DOI    https://pubmed.ncbi.nlm.nih.gov/37846114/      删除
+
+31. PMID 36124593 | 2022 | Mathematical biosciences and engineering : MBE
+   标题：Development and validation of novel inflammatory response-related gene signature to predict prostate cancer recurrence and response to immune checkpoint therapy.
+   DOI：10.3934/mbe.2022528    https://doi.org/10.3934/mbe.2022528
+
+32. PMID 36083923 | 2022 | Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference
+   标题：Metabolic-related gene signature model forecasts biochemical relapse in primary prostate cancer.
+   DOI：10.1109/EMBC48229.2022.9871189    https://doi.org/10.1109/EMBC48229.2022.9871189
+
+33. PMID 35701253 | 2022 | Computers in biology and medicine
+   标题：A radiation resistance related index for biochemical recurrence and tumor immune environment in prostate cancer patients.
+   DOI：10.1016/j.compbiomed.2022.105711    https://doi.org/10.1016/j.compbiomed.2022.105711
+
+34. PMID 35358302 | 2022 | Cancer research
+   标题：Comprehensive Evaluation of Machine Learning Models and Gene Expression Signatures for Prostate Cancer Prognosis Using Large Population Cohorts.
+   DOI：10.1158/0008-5472.CAN-21-3074    https://doi.org/10.1158/0008-5472.CAN-21-3074
+
+35. PMID 34740081 | 2021 | International immunopharmacology
+   标题：Long non-coding RNA profile study identifies an immune-related lncRNA prognostic signature for prostate adenocarcinoma.
+   DOI：10.1016/j.intimp.2021.108267    https://doi.org/10.1016/j.intimp.2021.108267
+
+36. PMID 34419719 | 2021 | Pathology, research and practice
+   标题：A novel 13 RNA binding proteins (RBPs) signature could predict prostate cancer biochemical recurrence.
+   DOI：10.1016/j.prp.2021.153587    https://doi.org/10.1016/j.prp.2021.153587
+
+37. PMID 34002865 | 2021 | The Prostate
+   标题：Identification of a five gene signature to predict time to biochemical recurrence after radical prostatectomy.
+   DOI：10.1002/pros.24150    https://doi.org/10.1002/pros.24150
+
+38. PMID 33504416 | 2021 | Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology
+   标题：[Bioinformatic analysis of immune-related lncRNA based on TCGA database in patients with prostate cancer].
+   DOI：无 DOI    https://pubmed.ncbi.nlm.nih.gov/33504416/   删除
+
+39. PMID 33338276 | 2021 | The Prostate
+   标题：Promoting cell proliferation, cell cycle progression, and glycolysis: Glycometabolism-related genes act as prognostic signatures for prostate cancer.
+   DOI：10.1002/pros.24092    https://doi.org/10.1002/pros.24092
+
+40. PMID 32898860 | 2021 | Briefings in bioinformatics
+   标题：Extended application of genomic selection to screen multiomics data for prognostic signatures of prostate cancer.
+   DOI：10.1093/bib/bbaa197    https://doi.org/10.1093/bib/bbaa197
+
+41. PMID 32896505 | 2021 | Clinical genitourinary cancer
+   标题：Development and Validation of a Novel TP53 Mutation Signature That Predicts Risk of Metastasis in Primary Prostate Cancer.
+   DOI：10.1016/j.clgc.2020.08.004    https://doi.org/10.1016/j.clgc.2020.08.004
+
+42. PMID 32593277 | 2021 | Combinatorial chemistry & high throughput screening
+   标题：Development and Validation of an Individualized Immune Prognostic Signature for Recurrent Prostate Cancer.
+   DOI：10.2174/1386207323666200627212820    https://doi.org/10.2174/1386207323666200627212820
+
+43. PMID 33336591 | 2020 | Biomarkers in medicine
+   标题：Expression patterns and a prognostic model of m6A-associated regulators in prostate adenocarcinoma.
+   DOI：10.2217/bmm-2020-0095    https://doi.org/10.2217/bmm-2020-0095   
+
+44. PMID 32882325 | 2020 | Genomics
+   标题：Development and validation of a six-RNA binding proteins prognostic signature and candidate drugs for prostate cancer.
+   DOI：10.1016/j.ygeno.2020.08.034    https://doi.org/10.1016/j.ygeno.2020.08.034
+
+45. PMID 32298604 | 2020 | Journal of computational biology : a journal of computational molecular cell biology
+   标题：Comprehensive Analysis Identifying Wnt Ligands Gene Family for Biochemical Recurrence in Prostate Adenocarcinoma and Construction of a Nomogram.
+   DOI：10.1089/cmb.2019.0397    https://doi.org/10.1089/cmb.2019.0397
+
+46. PMID 30181067 | 2018 | European urology
+   标题：Comparing Prognostic Utility of a Single-marker Immunohistochemistry Approach with Commercial Gene Expression Profiling Following Radical Prostatectomy.
+   DOI：10.1016/j.eururo.2018.08.020    https://doi.org/10.1016/j.eururo.2018.08.020
+
+47. PMID 28188414 | 2017 | International urology and nephrology
+   标题：A potential panel of four-long noncoding RNA signature in prostate cancer predicts biochemical recurrence-free survival and disease-free survival.
+   DOI：10.1007/s11255-017-1536-8    https://doi.org/10.1007/s11255-017-1536-8
+
+48. PMID 26058959 | 2016 | European urology
+   标题：Tissue-based Genomics Augments Post-prostatectomy Risk Stratification in a Natural History Cohort of Intermediate- and High-Risk Men.
+   DOI：10.1016/j.eururo.2015.05.042    https://doi.org/10.1016/j.eururo.2015.05.042
+
+49. PMID 18006806 | 2007 | Cancer research
+   标题：A polycomb repression signature in metastatic prostate cancer predicts cancer outcome.
+   DOI：10.1158/0008-5472.CAN-07-2498    https://doi.org/10.1158/0008-5472.CAN-07-2498
+
+============================================================
+二、PMC 只有题录、没有开放正文（11 篇）
+============================================================
+
+50. PMID 40916526 | PMC12415569 | 2025 | Nan fang yi ke da xue xue bao = Journal of Southern Medical University
+   标题：[A risk prediction model for prognosis and immunotherapy response in prostate cancer patients based on immunosuppressive neutrophil Neu_2 subsets].
+   DOI：10.12122/j.issn.1673-4254.2025.08.09    https://doi.org/10.12122/j.issn.1673-4254.2025.08.09
+
+51. PMID 39676131 | PMC11791036 | 2025 | British journal of cancer
+   标题：Identification of diagnostic biomarkers in prostate cancer-related fatigue by construction of predictive models and experimental validation.
+   DOI：10.1038/s41416-024-02922-1    https://doi.org/10.1038/s41416-024-02922-1
+
+52. PMID 39252915 | PMC11383506 | 2024 | medRxiv : the preprint server for health sciences
+   标题：Gene Signature for Predicting Metastasis in Prostate Cancer Using Primary Tumor Expression Profiles.
+   DOI：10.1101/2024.08.30.24312735    https://doi.org/10.1101/2024.08.30.24312735
+
+53. PMID 38455413 | PMC10915326 | 2024 | American journal of cancer research
+   标题：Autophagy-related long non-coding RNAs act as prognostic biomarkers and associate with tumor microenvironment in prostate cancer.
+   DOI：10.62347/XTDZ5687    https://doi.org/10.62347/XTDZ5687
+
+54. PMID 38427207 | PMC12974042 | 2024 | Cellular oncology (Dordrecht, Netherlands)
+   标题：The predictive significance of chromobox family members in prostate cancer in humans.
+   DOI：10.1007/s13402-024-00929-7    https://doi.org/10.1007/s13402-024-00929-7
+
+55. PMID 37369799 | PMC11796835 | 2023 | Journal of cancer research and clinical oncology
+   标题：Identification and validation of cancer-associated fibroblast-related subtypes and the prognosis model of biochemical recurrence in prostate cancer based on single-cell and bulk RNA sequencing.
+   DOI：10.1007/s00432-023-05011-7    https://doi.org/10.1007/s00432-023-05011-7
+
+56. PMID 37335337 | PMC11796549 | 2023 | Journal of cancer research and clinical oncology
+   标题：Comprehensive landscape of the miRNA-regulated prognostic marker LAYN with immune infiltration and stemness in pan-cancer.
+   DOI：10.1007/s00432-023-04986-7    https://doi.org/10.1007/s00432-023-04986-7
+
+57. PMID 37193176 | PMC10182515 | 2023 | American journal of translational research
+   标题：A necroptosis gene signature predicts prostate cancer recurrence, and is linked to somatic mutation, therapeutic landscape, and immune infiltration.
+   DOI：无 DOI    https://pubmed.ncbi.nlm.nih.gov/37193176/
+
+58. PMID 36703078 | PMC10050318 | 2023 | British journal of cancer
+   标题：Plasma extracellular vesicle circRNA signature and resistance to abiraterone in metastatic castration-resistant prostate cancer.
+   DOI：10.1038/s41416-023-02147-8    https://doi.org/10.1038/s41416-023-02147-8
+
+59. PMID 35693084 | PMC9185615 | 2022 | American journal of cancer research
+   标题：Development of a novel five-gene immune-related risk model for the prognosis evaluation of prostate adenocarcinoma patients.
+   DOI：无 DOI    https://pubmed.ncbi.nlm.nih.gov/35693084/
+
+60. PMID 35414328 | PMC9302510 | 2022 | Cell cycle (Georgetown, Tex.)
+   标题：Expression status and prognostic value of autophagy-related lncRNAs in prostate cancer.
+   DOI：10.1080/15384101.2022.2065149    https://doi.org/10.1080/15384101.2022.2065149

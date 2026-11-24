@@ -1,0 +1,3 @@
+提取锁定 2026-11-01（Wei 定稿）
+ced522e895bfe764561d37ff8579a2ac  signatures_locked_2026-11-01.csv
+6d7b393950415daf14718097cabb886f  signature_terms_locked_2026-11-01.csv

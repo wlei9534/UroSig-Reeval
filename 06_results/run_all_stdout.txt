@@ -1,0 +1,41 @@
+2026-11-11 18:58:51 run_all start: jobs=14 python=3.12.0 only=all
+2026-11-11 18:58:51 [run_primary] started 14 shards: --cov 0.8 --nboot 1000 --nrand 1000 --seed 20261101 --mode z --cohorts GSE54460,GSE70769,GSE70768,MSKCC_GSE21032 --roles main
+2026-11-11 19:31:42 [run_primary] done in 1971s; run_primary: 384 pairs (384 ok), 379 random sets, 14 shards 
+2026-11-11 19:31:44 [pool primary] rc=0 {
+ "tag": "primary",
+ "filters": {
+  "src": "run_primary"
+ },
+ "n_signatures": 142,
+ "n_papers": 141,
+ "n_pairs": 384,
+ "pooled_c_median": 0.574676496987754,
+ "pooled_c_iqr": [
+  0.5356107146560396,
+  0.6156725908421926
+ ],
+ "share_beats_grade_papers": 0.014184397163120567,
+ "share_beats_random_papers": 0.605072463768116,
+ "n_random_q_lt_0.05": 71,
+ "n_lr_q_lt_0.05": 47
+} 
+2026-11-11 19:31:45 [pool S1_cov100] rc=0 {
+ "tag": "S1_cov100",
+ "filters": {
+  "src": "run_primary",
+  "cov": "1.0"
+ },
+ "n_signatures": 139,
+ "n_papers": 138,
+ "n_pairs": 349,
+ "pooled_c_median": 0.5744099995731687,
+ "pooled_c_iqr": [
+  0.5348747027579399,
+  0.6156359360797339
+ ],
+ "share_beats_grade_papers": 0.021739130434782608,
+ "share_beats_random_papers": 0.5962962962962963,
+ "n_random_q_lt_0.05": 68,
+ "n_lr_q_lt_0.05": 46
+} 
+2026-11-11 19:31:45 [run_raw] started 14 shards: --cov 0.8 --nboot 1000 --nrand 1000 --seed 20261101 --mode raw --cohorts GSE54460,GSE70769,GSE70768,MSKCC_GSE21032 --roles main

@@ -1,0 +1,23 @@
+{
+ "tag": "S8_equal_weight",
+ "filters": {
+  "src": "run_equal"
+ },
+ "n_signatures": 65,
+ "n_papers": 65,
+ "n_pairs": 191,
+ "pooled_c_median": 0.5779292017469089,
+ "pooled_c_iqr": [
+  0.5260652937733704,
+  0.6220934750820744
+ ],
+ "share_beats_grade_papers": 0.0,
+ "share_beats_random_papers": 0.65625,
+ "n_random_q_lt_0.05": 38,
+ "n_lr_q_lt_0.05": 41,
+ "n_lr_combined_q_lt_0.05": 30,
+ "n_signatures_k2plus": 57,
+ "n_signatures_with_random": 64,
+ "n_ci_excludes_0.5": 15,
+ "median_delta_c_corrected": 0.003480299903566957
+}

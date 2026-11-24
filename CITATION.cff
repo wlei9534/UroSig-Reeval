@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below. The article will be added when published."
+title: "UroSig-Reeval: external re-evaluation of published transcriptomic prognostic signatures for prostate cancer"
+type: software
+version: "1.0.0"
+date-released: "2026-11-24"
+doi: 10.5281/zenodo.24505570
+authors:
+  - family-names: Zhao
+    given-names: Jin
+  - family-names: Xue
+    given-names: Song
+  - family-names: Su
+    given-names: Ruiping
+  - family-names: Lei
+    given-names: Wei
+  - family-names: Yuan
+    given-names: Tubin
+  - family-names: Wan
+    given-names: Xiang
+repository-code: "https://github.com/wlei9534/UroSig-Reeval"
+license: MIT
+references:
+  - type: report
+    title: "UroSig-Reeval: statistical analysis plan (version 2), amendments and post hoc analyses for an external re-evaluation of published transcriptomic prognostic signatures for prostate cancer"
+    doi: 10.5281/zenodo.24385587
+    year: 2026
+    authors:
+      - family-names: Zhao
+        given-names: Jin
+      - family-names: Xue
+        given-names: Song
+      - family-names: Su
+        given-names: Ruiping
+      - family-names: Lei
+        given-names: Wei
+      - family-names: Yuan
+        given-names: Tubin
+      - family-names: Wan
+        given-names: Xiang

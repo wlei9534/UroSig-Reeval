@@ -1,0 +1,24 @@
+{
+ "tag": "S4_without_MSKCC",
+ "filters": {
+  "src": "run_primary",
+  "cohorts": "GSE54460,GSE70769,GSE70768"
+ },
+ "n_signatures": 141,
+ "n_papers": 140,
+ "n_pairs": 316,
+ "pooled_c_median": 0.5696540995696986,
+ "pooled_c_iqr": [
+  0.5370358469582907,
+  0.6113257172371621
+ ],
+ "share_beats_grade_papers": 0.02857142857142857,
+ "share_beats_random_papers": 0.551094890510949,
+ "n_random_q_lt_0.05": 58,
+ "n_lr_q_lt_0.05": 45,
+ "n_lr_combined_q_lt_0.05": 41,
+ "n_signatures_k2plus": 101,
+ "n_signatures_with_random": 138,
+ "n_ci_excludes_0.5": 42,
+ "median_delta_c_corrected": 0.0004017506221179178
+}

@@ -1,0 +1,4 @@
+提取锁定 v2 2026-11-14（v1 锁定 + 双人筛选补充 300 篇；规则由 Wei 授权 Claude 确定）
+1a5f5c32f35d6256ed49136a3a0504e7  signatures_locked_v2_2026-11-14.csv
+f91776fbcb4e4c2f39a8dd51dcebdf6d  signature_terms_locked_v2_2026-11-14.csv
+3daf849c566321549f86b4a4cd3885cc  equal_weight_directions_v2.csv

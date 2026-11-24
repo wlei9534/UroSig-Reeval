@@ -1,0 +1,24 @@
+feature,level,n
+Training data,TCGA only,177
+Training data,Other,34
+Final model,Multivariable Cox,112
+Final model,LASSO-type,92
+Final model,,7
+Original endpoint,BCR or RFS,149
+Original endpoint,Other,62
+"External validation
+by the authors",Reported,101
+"External validation
+by the authors",Not reported,110
+Genes in the model,2–5,96
+Genes in the model,6–10,80
+Genes in the model,11–20,25
+Genes in the model,> 20,10
+"Independent cohorts
+available here",Four,50
+"Independent cohorts
+available here",Three,79
+"Independent cohorts
+available here",Two,50
+"Independent cohorts
+available here",One,32

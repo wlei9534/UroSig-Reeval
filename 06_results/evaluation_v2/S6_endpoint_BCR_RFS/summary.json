@@ -1,0 +1,24 @@
+{
+ "tag": "S6_endpoint_BCR_RFS",
+ "filters": {
+  "src": "run_primary",
+  "endpoint": "BCR/RFS"
+ },
+ "n_signatures": 149,
+ "n_papers": 149,
+ "n_pairs": 379,
+ "pooled_c_median": 0.5811343461464555,
+ "pooled_c_iqr": [
+  0.5437676874444973,
+  0.6205914514920846
+ ],
+ "share_beats_grade_papers": 0.013422818791946308,
+ "share_beats_random_papers": 0.6438356164383562,
+ "n_random_q_lt_0.05": 84,
+ "n_lr_q_lt_0.05": 47,
+ "n_lr_combined_q_lt_0.05": 37,
+ "n_signatures_k2plus": 123,
+ "n_signatures_with_random": 146,
+ "n_ci_excludes_0.5": 40,
+ "median_delta_c_corrected": 0.00035464111796767664
+}

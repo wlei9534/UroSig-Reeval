@@ -1,0 +1,124 @@
+2026-11-17 23:14:10 run_all start: jobs=14 python=3.12.0 only=E3,E12
+2026-11-17 23:14:10 [run_met_116918] started 14 shards: --cov 0.8 --nboot 1000 --nrand 1000 --seed 20261101 --mode z --cohorts GSE116918 --roles main --endpoint met
+2026-11-17 23:27:10 [run_met_116918] done in 781s; run_met_116918: 112 pairs (112 ok), 112 random sets, 14 shards 
+2026-11-17 23:27:12 [pool E3_met_GSE116918] rc=0 {
+ "tag": "E3_met_GSE116918",
+ "filters": {
+  "src": "run_met_116918"
+ },
+ "n_signatures": 112,
+ "n_papers": 111,
+ "n_pairs": 112,
+ "pooled_c_median": 0.5630690948044992,
+ "pooled_c_iqr": [
+  0.5147964649169792,
+  0.6107391537225495
+ ],
+ "share_beats_grade_papers": 0.3153153153153153,
+ "share_beats_random_papers": 0.22522522522522523,
+ "n_random_q_lt_0.05": 0,
+ "n_lr_q_lt_0.05": 0,
+ "n_lr_combined_q_lt_0.05": 0,
+ "n_signatures_k2plus": 0,
+ "n_signatures_with_random": 112,
+ "n_ci_excludes_0.5": 15,
+ "median_delta_c_corrected": 0.03267348174056075
+} 
+2026-11-17 23:30:15 [E1E2] rc=0 2 chunks
+2/72 chunks
+3/72 chunks
+4/72 chunks
+5/72 chunks
+6/72 chunks
+7/72 chunks
+8/72 chunks
+9/72 chunks
+10/72 chunks
+11/72 chunks
+12/72 chunks
+13/72 chunks
+14/72 chunks
+15/72 chunks
+16/72 chunks
+17/72 chunks
+18/72 chunks
+19/72 chunks
+20/72 chunks
+21/72 chunks
+22/72 chunks
+23/72 chunks
+24/72 chunks
+25/72 chunks
+26/72 chunks
+27/72 chunks
+28/72 chunks
+29/72 chunks
+30/72 chunks
+31/72 chunks
+32/72 chunks
+33/72 chunks
+34/72 chunks
+35/72 chunks
+36/72 chunks
+37/72 chunks
+38/72 chunks
+39/72 chunks
+40/72 chunks
+41/72 chunks
+42/72 chunks
+43/72 chunks
+44/72 chunks
+45/72 chunks
+46/72 chunks
+47/72 chunks
+48/72 chunks
+49/72 chunks
+50/72 chunks
+51/72 chunks
+52/72 chunks
+53/72 chunks
+54/72 chunks
+55/72 chunks
+56/72 chunks
+57/72 chunks
+58/72 chunks
+59/72 chunks
+60/72 chunks
+61/72 chunks
+62/72 chunks
+63/72 chunks
+64/72 chunks
+65/72 chunks
+66/72 chunks
+67/72 chunks
+68/72 chunks
+69/72 chunks
+70/72 chunks
+71/72 chunks
+72/72 chunks
+{
+ "n_signatures": 211,
+ "n_pairs": 569,
+ "metapcna_n_genes": 168,
+ "E1_grade": {
+  "median_pooled_dC": -0.1441836076522736,
+  "n_ci_above_0": 0,
+  "n_ci_below_0": 110,
+  "n_ci_includes_0": 101
+ },
+ "E2_metapcna": {
+  "cohort_C": {
+   "GSE54460": 0.4672,
+   "GSE70768": 0.6085,
+   "GSE70769": 0.6632,
+   "MSKCC_GSE21032": 0.4965
+  },
+  "median_pooled_dC_sig_minus_metapcna": 0.02470226118283315,
+  "n_ci_above_0": 22,
+  "n_ci_below_0": 5,
+  "n_point_above_0": 131,
+  "median_abs_rho_sig_metapcna": 0.2725058952267928,
+  "spearman_absrho_vs_C_pairs": -0.062160521959956604
+ }
+} 
+2026-11-17 23:30:15 run_all finished

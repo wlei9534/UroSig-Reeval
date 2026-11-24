@@ -1,0 +1,267 @@
+{
+ "V1": {
+  "n_used_pairs_scored": 504,
+  "by_cohort": {
+   "GSE116918": 50,
+   "GSE54460": 27,
+   "GSE70768": 68,
+   "GSE70769": 81,
+   "MSKCC_GSE21032": 60,
+   "TCGA-PRAD": 218
+  },
+  "recomputed_harrell_c_in_used_cohorts": {
+   "n": 504,
+   "median": 0.6385984732546064,
+   "iqr": [
+    0.5802645373762507,
+    0.6819927892644458
+   ]
+  },
+  "matched_comparisons": 269,
+  "diff_reported_minus_ours_all": {
+   "n": 269,
+   "median": 0.04987606380111609,
+   "iqr": [
+    0.014952995725455498,
+    0.1192093188084824
+   ]
+  },
+  "diff_C_index": {
+   "n": 42,
+   "median": 0.025048869983020194,
+   "iqr": [
+    -0.00841389713372992,
+    0.05722102729451134
+   ]
+  },
+  "diff_AUC3y": {
+   "n": 227,
+   "median": 0.05855918446072783,
+   "iqr": [
+    0.020156844195160006,
+    0.12848057676686353
+   ]
+  },
+  "diff_bcr_like_endpoint": {
+   "n": 210,
+   "median": 0.03659723223140299,
+   "iqr": [
+    0.011969490616180772,
+    0.09935741740172824
+   ]
+  },
+  "diff_other_endpoint": {
+   "n": 59,
+   "median": 0.11410547803505178,
+   "iqr": [
+    0.04857689437164503,
+    0.2583511737825651
+   ]
+  },
+  "spearman_reported_vs_ours": 0.30110972368172123,
+  "share_within_0.05": 0.49814126394052044,
+  "three_step": {
+   "n": 144,
+   "reported_training": {
+    "n": 144,
+    "median": 0.751,
+    "iqr": [
+     0.70975,
+     0.81
+    ]
+   },
+   "ours_in_training_cohort": {
+    "n": 144,
+    "median": 0.6882250583337637,
+    "iqr": [
+     0.6303227764828965,
+     0.7179795280644204
+    ]
+   },
+   "external_pooled_c": {
+    "n": 144,
+    "median": 0.5805562871119256,
+    "iqr": [
+     0.536575551428031,
+     0.6207029442916515
+    ]
+   }
+  },
+  "leakage_within_signature": {
+   "n": 151,
+   "c_used_cohorts": {
+    "n": 151,
+    "median": 0.6242236024844721,
+    "iqr": [
+     0.5663388107126237,
+     0.6692043363239015
+    ]
+   },
+   "c_unused_cohorts": {
+    "n": 151,
+    "median": 0.5982142857142857,
+    "iqr": [
+     0.5524668664855974,
+     0.629550473083522
+    ]
+   },
+   "median_paired_diff": 0.02321140110960629,
+   "wilcoxon_p": 0.00016373231666197326
+  }
+ },
+ "V2": {
+  "by_cohort": [
+   {
+    "cohort": "GSE54460",
+    "n": 100,
+    "events": 49,
+    "median_se": 0.0508,
+    "MDD_80pct": 0.1422
+   },
+   {
+    "cohort": "GSE70768",
+    "n": 111,
+    "events": 19,
+    "median_se": 0.0838,
+    "MDD_80pct": 0.2345
+   },
+   {
+    "cohort": "GSE70769",
+    "n": 90,
+    "events": 45,
+    "median_se": 0.0538,
+    "MDD_80pct": 0.1506
+   },
+   {
+    "cohort": "MSKCC_GSE21032",
+    "n": 130,
+    "events": 27,
+    "median_se": 0.0651,
+    "MDD_80pct": 0.1824
+   }
+  ],
+  "pooled_ci_halfwidth_by_k": [
+   {
+    "k": 1,
+    "median_CI_halfwidth": 0.1001
+   },
+   {
+    "k": 2,
+    "median_CI_halfwidth": 0.5121
+   },
+   {
+    "k": 3,
+    "median_CI_halfwidth": 0.1306
+   },
+   {
+    "k": 4,
+    "median_CI_halfwidth": 0.1262
+   }
+  ]
+ },
+ "V3": {
+  "n": 211,
+  "tcga_only_training": 177,
+  "ext_reported": 101,
+  "method_counts": {
+   "多因素 Cox": 112,
+   "LASSO 类": 92,
+   "单因素或其他": 7
+  },
+  "multivariable": [
+   {
+    "term": "tcga_only_training",
+    "coef_logitC": -0.1359,
+    "lo": -0.2282,
+    "hi": -0.0436,
+    "p": 0.0039
+   },
+   {
+    "term": "ext_reported",
+    "coef_logitC": 0.1087,
+    "lo": 0.0415,
+    "hi": 0.1759,
+    "p": 0.0015
+   },
+   {
+    "term": "log2_genes",
+    "coef_logitC": 0.0435,
+    "lo": 0.0076,
+    "hi": 0.0794,
+    "p": 0.0174
+   },
+   {
+    "term": "median_rho_metapcna",
+    "coef_logitC": -0.1288,
+    "lo": -0.2556,
+    "hi": -0.0019,
+    "p": 0.0466
+   },
+   {
+    "term": "method_单因素或其他",
+    "coef_logitC": 0.142,
+    "lo": -0.0467,
+    "hi": 0.3308,
+    "p": 0.1402
+   },
+   {
+    "term": "method_多因素 Cox",
+    "coef_logitC": -0.0222,
+    "lo": -0.0911,
+    "hi": 0.0468,
+    "p": 0.5289
+   }
+  ]
+ },
+ "V4": {
+  "TCGA-PRAD": {
+   "n_signatures": 227,
+   "n_patients": 497,
+   "median_abs_rho": 0.30060717980639395,
+   "share_abs_rho_ge_0.5": 0.1823320728236716,
+   "share_rho_ge_0.7": 0.018244902732836927,
+   "median_rho_with_metapcna": 0.31762612206468505,
+   "share_rho_metapcna_ge_0.5": 0.23348017621145375,
+   "n_clusters_at_rho_0.5": 70,
+   "largest_cluster_size": 53,
+   "clusters_size_ge_5": 7,
+   "largest_cluster_median_rho_metapcna": 0.5424019046263591
+  },
+  "GSE54460": {
+   "n_signatures": 217,
+   "n_patients": 100,
+   "median_abs_rho": 0.24950495049504953,
+   "share_abs_rho_ge_0.5": 0.14473459634749958,
+   "share_rho_ge_0.7": 0.014464925755248336,
+   "median_rho_with_metapcna": 0.3978997899789979,
+   "share_rho_metapcna_ge_0.5": 0.3870967741935484
+  },
+  "GSE70769": {
+   "n_signatures": 212,
+   "n_patients": 94,
+   "median_abs_rho": 0.15936134089513426,
+   "share_abs_rho_ge_0.5": 0.050299561834928015,
+   "share_rho_ge_0.7": 0.003085039792542252,
+   "median_rho_with_metapcna": 0.1561680453708052,
+   "share_rho_metapcna_ge_0.5": 0.05660377358490566
+  },
+  "GSE70768": {
+   "n_signatures": 212,
+   "n_patients": 125,
+   "median_abs_rho": 0.15720430107526878,
+   "share_abs_rho_ge_0.5": 0.037065188232138065,
+   "share_rho_ge_0.7": 0.0012519002056693195,
+   "median_rho_with_metapcna": 0.04166820276497695,
+   "share_rho_metapcna_ge_0.5": 0.06132075471698113
+  },
+  "MSKCC_GSE21032": {
+   "n_signatures": 164,
+   "n_patients": 131,
+   "median_abs_rho": 0.24018843751668184,
+   "share_abs_rho_ge_0.5": 0.15083046535986833,
+   "share_rho_ge_0.7": 0.023567260212479426,
+   "median_rho_with_metapcna": -0.18809053541877968,
+   "share_rho_metapcna_ge_0.5": 0.0975609756097561
+  }
+ }
+}

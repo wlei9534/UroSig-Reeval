@@ -1,0 +1,75 @@
+{
+ "n_signatures": 222,
+ "status_counts": {
+  "已提取": 168,
+  "部分仅图中": 34,
+  "原文未报告区分度": 16,
+  "仅图中，未能读取": 4
+ },
+ "training_metric_used": {
+  "AUC3y": 133,
+  "": 57,
+  "C-index": 26,
+  "AUC5y": 4,
+  "AUC1y": 2
+ },
+ "training_all": {
+  "n": 158,
+  "median_reported": 0.7545,
+  "median_ours": 0.5805562871119256,
+  "median_gap": 0.18105596840723398,
+  "gap_iqr": [
+   0.12439647713044777,
+   0.23702036869786366
+  ],
+  "share_gap_positive": 0.9936708860759493,
+  "wilcoxon_p": 1.2514148843155078e-27,
+  "spearman_reported_vs_ours": -0.10103207611270579
+ },
+ "training_C_only": {
+  "n": 24,
+  "median_reported": 0.7284999999999999,
+  "median_ours": 0.5918671100832551,
+  "median_gap": 0.1501673655253785,
+  "gap_iqr": [
+   0.0742053080705814,
+   0.20435893857774978
+  ],
+  "share_gap_positive": 1.0,
+  "wilcoxon_p": 1.1920928955078125e-07,
+  "spearman_reported_vs_ours": -0.1408695652173913
+ },
+ "training_AUC_only": {
+  "n": 134,
+  "median_reported": 0.7605,
+  "median_ours": 0.5805562871119256,
+  "median_gap": 0.19347444682884807,
+  "gap_iqr": [
+   0.12897293656553138,
+   0.2472459511027054
+  ],
+  "share_gap_positive": 0.9925373134328358,
+  "wilcoxon_p": 1.0489535370791794e-23,
+  "spearman_reported_vs_ours": -0.07654485730684961
+ },
+ "external_all": {
+  "n": 101,
+  "median_reported": 0.71,
+  "median_ours": 0.5860397586154114,
+  "median_gap": 0.12691655628643406,
+  "gap_iqr": [
+   0.07060696374783626,
+   0.1741600959635039
+  ],
+  "share_gap_positive": 0.9603960396039604,
+  "wilcoxon_p": 4.6972736725848036e-18,
+  "spearman_reported_vs_ours": 0.2348517949267453
+ },
+ "share_reported_training_above_our_ci": 0.6121212121212121,
+ "secondary_auc3y_vs_our_auc36": {
+  "n": 146,
+  "median_reported": 0.76,
+  "median_ours": 0.6001711405390725,
+  "median_gap": 0.15786481678745928
+ }
+}

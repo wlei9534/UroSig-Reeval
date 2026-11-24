@@ -1,0 +1,23 @@
+{
+ "tag": "S2b_tcga_sd",
+ "filters": {
+  "src": "run_tcga"
+ },
+ "n_signatures": 202,
+ "n_papers": 201,
+ "n_pairs": 545,
+ "pooled_c_median": 0.5899464852835066,
+ "pooled_c_iqr": [
+  0.539668674025088,
+  0.6258073169581768
+ ],
+ "share_beats_grade_papers": 0.01990049751243781,
+ "share_beats_random_papers": 0.6287878787878788,
+ "n_random_q_lt_0.05": 117,
+ "n_lr_q_lt_0.05": 78,
+ "n_lr_combined_q_lt_0.05": 63,
+ "n_signatures_k2plus": 171,
+ "n_signatures_with_random": 199,
+ "n_ci_excludes_0.5": 59,
+ "median_delta_c_corrected": 0.0006312001168748984
+}

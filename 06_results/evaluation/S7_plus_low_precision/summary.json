@@ -1,0 +1,23 @@
+{
+ "tag": "S7_plus_low_precision",
+ "filters": {
+  "src": "run_primary,run_sens_roles"
+ },
+ "n_signatures": 156,
+ "n_papers": 155,
+ "n_pairs": 423,
+ "pooled_c_median": 0.5732407457008977,
+ "pooled_c_iqr": [
+  0.5342917339583724,
+  0.6154554808169515
+ ],
+ "share_beats_grade_papers": 0.012903225806451613,
+ "share_beats_random_papers": 0.5888157894736842,
+ "n_random_q_lt_0.05": 77,
+ "n_lr_q_lt_0.05": 60,
+ "n_lr_combined_q_lt_0.05": 46,
+ "n_signatures_k2plus": 132,
+ "n_signatures_with_random": 153,
+ "n_ci_excludes_0.5": 41,
+ "median_delta_c_corrected": 0.0006885119363877867
+}
